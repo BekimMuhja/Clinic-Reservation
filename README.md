@@ -25,9 +25,32 @@ Choose a date for the appointment.
 The system automatically assigns an appointment time based on availability (starting at 08:00 AM).
 
 📅 Viewing Appointments
+
 Users can search for a doctor using their diploma ID.
+
 The system displays all appointments for that doctor.
 
 👨‍⚕️ Viewing All Doctors
 A tab lists all doctors along with their diploma IDs for easy reference.
+
+How It Works
+1️⃣ Preloaded Data
+
+The system initializes with sample hospitals, sections, and doctors.
+
+2️⃣ Booking an Appointment
+
+A patient enters their details and selects a doctor.
+If the doctor has availability, the system assigns an appointment time.
+The first appointment is at 08:00 AM, and subsequent ones are scheduled sequentially.
+If a doctor is fully booked, the system notifies the user.
+
+3️⃣ Viewing Appointments
+
+Users enter a doctor’s diploma ID to see all their scheduled appointments.
+
+4️⃣ Viewing Doctors
+
+A separate tab displays all doctors with their diploma IDs.
+
 
