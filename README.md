@@ -13,3 +13,21 @@ This system ensures that:
 
 ✔ All doctors, hospitals, and sections are preloaded at startup for easy selection.
 
+Features
+✅ Booking Appointments
+
+Patients can enter their name and national ID.
+
+Select a hospital, section, and doctor from dropdown menus.
+
+Choose a date for the appointment.
+
+The system automatically assigns an appointment time based on availability (starting at 08:00 AM).
+
+📅 Viewing Appointments
+Users can search for a doctor using their diploma ID.
+The system displays all appointments for that doctor.
+
+👨‍⚕️ Viewing All Doctors
+A tab lists all doctors along with their diploma IDs for easy reference.
+
